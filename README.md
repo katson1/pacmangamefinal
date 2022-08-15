@@ -1,3 +1,3 @@
 # TesteTecnico02
-Você pode testar o jogo nesse link:
+O jogo está com algumas funcionalidades faltando, mas você pode testar o jogo nesse link:
 https://katson1.github.io/umjogo/#/
